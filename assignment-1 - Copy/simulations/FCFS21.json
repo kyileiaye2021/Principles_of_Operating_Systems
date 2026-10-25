@@ -1,0 +1,133 @@
+{
+    "scheduling_algorithm": "FCFS",
+    "processes": [
+        {
+            "arrival": 0,
+            "total_cpu_time": 5
+        },
+        {
+            "arrival": 37,
+            "total_cpu_time": 58
+        },
+        {
+            "arrival": 74,
+            "total_cpu_time": 21
+        },
+        {
+            "arrival": 111,
+            "total_cpu_time": 74
+        },
+        {
+            "arrival": 148,
+            "total_cpu_time": 37
+        },
+        {
+            "arrival": 185,
+            "total_cpu_time": 90
+        },
+        {
+            "arrival": 222,
+            "total_cpu_time": 53
+        },
+        {
+            "arrival": 259,
+            "total_cpu_time": 16
+        },
+        {
+            "arrival": 296,
+            "total_cpu_time": 69
+        },
+        {
+            "arrival": 333,
+            "total_cpu_time": 32
+        },
+        {
+            "arrival": 770,
+            "total_cpu_time": 85
+        },
+        {
+            "arrival": 807,
+            "total_cpu_time": 48
+        },
+        {
+            "arrival": 844,
+            "total_cpu_time": 11
+        },
+        {
+            "arrival": 881,
+            "total_cpu_time": 64
+        },
+        {
+            "arrival": 918,
+            "total_cpu_time": 27
+        },
+        {
+            "arrival": 955,
+            "total_cpu_time": 80
+        },
+        {
+            "arrival": 992,
+            "total_cpu_time": 43
+        },
+        {
+            "arrival": 1029,
+            "total_cpu_time": 6
+        },
+        {
+            "arrival": 1066,
+            "total_cpu_time": 59
+        },
+        {
+            "arrival": 1103,
+            "total_cpu_time": 22
+        },
+        {
+            "arrival": 1540,
+            "total_cpu_time": 75
+        },
+        {
+            "arrival": 1577,
+            "total_cpu_time": 38
+        },
+        {
+            "arrival": 1614,
+            "total_cpu_time": 91
+        },
+        {
+            "arrival": 1651,
+            "total_cpu_time": 54
+        },
+        {
+            "arrival": 1688,
+            "total_cpu_time": 17
+        },
+        {
+            "arrival": 825,
+            "total_cpu_time": 70
+        },
+        {
+            "arrival": 862,
+            "total_cpu_time": 33
+        },
+        {
+            "arrival": 899,
+            "total_cpu_time": 86
+        },
+        {
+            "arrival": 936,
+            "total_cpu_time": 49
+        },
+        {
+            "arrival": 973,
+            "total_cpu_time": 12
+        },
+        {
+            "arrival": 1410,
+            "total_cpu_time": 65
+        },
+        {
+            "arrival": 1447,
+            "total_cpu_time": 28
+        }
+    ]
+}

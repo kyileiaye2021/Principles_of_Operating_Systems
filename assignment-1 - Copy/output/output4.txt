@@ -1,0 +1,6 @@
+0.000s : Process 1 arrived
+0.000s : Context switching to pid: 1
+
+0.250s : Process 1 has finished execution and is exiting
+0.250s : Context switching to pid: 0
+

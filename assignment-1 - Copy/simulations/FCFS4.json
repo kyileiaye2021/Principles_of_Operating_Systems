@@ -1,0 +1,9 @@
+{
+    "scheduling_algorithm": "FCFS",
+    "processes": [
+        {
+            "arrival": 0,
+            "total_cpu_time": 250
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "scheduling_algorithm": "FCFS",
+    "processes": [
+        {
+            "arrival": 0,
+            "total_cpu_time": 500
+        },
+        {
+            "arrival": 10,
+            "total_cpu_time": 11
+        },
+        {
+            "arrival": 30,
+            "total_cpu_time": 18
+        },
+        {
+            "arrival": 50,
+            "total_cpu_time": 25
+        },
+        {
+            "arrival": 70,
+            "total_cpu_time": 32
+        },
+        {
+            "arrival": 90,
+            "total_cpu_time": 39
+        },
+        {
+            "arrival": 110,
+            "total_cpu_time": 46
+        },
+        {
+            "arrival": 130,
+            "total_cpu_time": 53
+        },
+        {
+            "arrival": 150,
+            "total_cpu_time": 60
+        },
+        {
+            "arrival": 170,
+            "total_cpu_time": 67
+        }
+    ]
+}
